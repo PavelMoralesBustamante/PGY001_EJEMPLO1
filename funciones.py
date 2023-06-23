@@ -22,3 +22,17 @@ def limpiarpantalla():
 
 ##############################
 #OPERACIONES
+def validarCodigo(codigo):
+    pass
+
+def guardar(codigo,titulo,autor,precio):
+    pass
+
+def buscar(codigo):
+    pass
+
+def certificadoCriticas(codigo):
+    pass
+
+def certificadoDetalles(codigo):
+    pass
